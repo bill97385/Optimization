@@ -1,0 +1,7 @@
+﻿  Optimization.cpp
+C:\Users\bill9\Source\Repos\Optimization\Optimization\Optimization.cpp(92,21): error C2248: 'NewtonMethod::NewtonMethod': 無法存取 private 成員 (宣告在類別 'NewtonMethod' 中)
+C:\Users\bill9\Source\Repos\Optimization\Optimization\Optimization.cpp(28): message : 請參閱 'NewtonMethod::NewtonMethod' 的宣告
+C:\Users\bill9\Source\Repos\Optimization\Optimization\Optimization.cpp(27): message : 請參閱 'NewtonMethod' 的宣告
+C:\Users\bill9\Source\Repos\Optimization\Optimization\Optimization.cpp(93,26): error C2248: 'GradientDescent::GradientDescent': 無法存取 private 成員 (宣告在類別 'GradientDescent' 中)
+C:\Users\bill9\Source\Repos\Optimization\Optimization\Optimization.cpp(60): message : 請參閱 'GradientDescent::GradientDescent' 的宣告
+C:\Users\bill9\Source\Repos\Optimization\Optimization\Optimization.cpp(59): message : 請參閱 'GradientDescent' 的宣告
